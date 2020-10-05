@@ -1,0 +1,15 @@
+baka      {usage : .baka @user}
+bite      {usage : .bite @user}
+cuddle    {usage : .cuddle @user}
+fbi       {usage : .fbi @user}
+feed      {usage : .feed @user}
+highfive  {usage : .highfive @user}
+hug       {usage : .hug @user}
+kiss      {usage : .kiss @user}
+meow      {usage : .meow @user}
+pat       {usage : .pat @user}
+poke      {usage : .poke @user}
+punch     {usage : .punch @user}
+slap      {usage : .slap @user}
+smug      {usage : .smug @user} 
+tickle    {usage : .tickle @user}
