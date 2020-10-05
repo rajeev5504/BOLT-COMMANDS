@@ -14,4 +14,3 @@ clearwarn  {usage : .clearwarn @user reason}
 lockdown   {usage : .lockdown timing [exmp : 1sec/1min/1hour}
 say        {usage : .say message}
 tempmute   {usage : .tempmute @user reason}
-nuke
