@@ -1,15 +1,15 @@
-loop         {usage : 
-lyrics
-nowplaying
-pause
-play
-pruning
-queue
-remove
-resume
-search
-shuffle
-skip
-skipto
-stop
-volume
+loop         {usage : .loop (looping current song)}
+lyrics       {usage : .lyrics (lyrics of any song by searching)}
+nowplaying   {usage : .nowplaying or .np (song on playing this time)}
+pause        {usage : .pause (pause song)}
+play         {usage : .play (play song by typping song name)}
+pruning      {undefiend}
+queue        {usage : .queue (songs queue)}
+remove       {usage : .remove (remove songs by typing)}
+resume       {usage : .resume (resume currently played song)}
+search       {usage : .search (search any song)}
+shuffle      {usage : .shuffle(shuffle any songs)}
+skip         {usage : .skip (skip current played song)}
+skipto       {usage : .skip (skip song by typing number in queue)}
+stop         {usage : .stop (stop song)}
+volume       {usage : .volume (adjust volume of song)}
