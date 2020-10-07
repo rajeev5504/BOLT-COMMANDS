@@ -14,3 +14,4 @@ clearwarn  {usage : n!clearwarn @user reason}
 lockdown   {usage : n!lockdown timing [exmp : 1sec/1min/1hour}
 say        {usage : n!say message}
 tempmute   {usage : n!tempmute @user reason}
+dm       {usage : n!dm @user or [userid] message}
