@@ -1,7 +1,7 @@
-autoresponse         {usage : .autoresponse (type to see commands)}
-leave                {usage : .leave (type to see commands)}
-setlevelup           {usage : .setlevelup (type to see commands)}
-prefix               {usage : .prefix (type to see commands)}
-setsuggestion        {usage : .setsuggestion (type to see commands)}
-welcome              {usage : .welcome (type to see commands)}
-welcome autorole     {usage : .welcome autorole (type to see commands)}
+autoresponse         {usage : n!autoresponse (type to see commands)}
+leave                {usage : n!leave (type to see commands)}
+setlevelup           {usage : n!setlevelup (type to see commands)}
+prefix               {usage : n!prefix (type to see commands)}
+setsuggestion        {usage : n!setsuggestion (type to see commands)}
+welcome              {usage : n!welcome (type to see commands)}
+welcome autorole     {usage : n!welcome autorole (type to see commands)}
